@@ -1,0 +1,33 @@
+.success-container {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 30px;
+  background: #e0f7fa;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.success-details {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.success-details ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: #00796b;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #004d40;
+}

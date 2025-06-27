@@ -1,0 +1,84 @@
+/* EditFlight.css */
+
+/* Container for the entire edit form page */
+.page-container {
+  max-width: 650px;
+  margin: 30px auto;
+  padding: 25px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading style */
+.section-heading {
+  text-align: center;
+  color: #2c3e50;
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 25px;
+}
+
+/* Form layout */
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-container label {
+  margin-top: 14px;
+  font-weight: 500;
+  color: #333;
+}
+
+.form-container input,
+.form-container select {
+  padding: 10px 12px;
+  margin-top: 6px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+  transition: border-color 0.3s ease;
+}
+
+.form-container input:focus,
+.form-container select:focus {
+  border-color: #3498db;
+  outline: none;
+}
+
+/* Save Button Style */
+.save-button {
+  margin-top: 25px;
+  background-color: #3498db;
+  color: white;
+  padding: 12px 18px;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.save-button:hover {
+  background-color: #2980b9;
+  transform: translateY(-2px);
+}
+
+/* Optional: Small success or error message styling */
+.alert {
+  margin-top: 15px;
+  padding: 10px 14px;
+  border-radius: 5px;
+  font-size: 15px;
+}
+
+.alert-success {
+  background-color: #d4edda;
+  color: #155724;
+}
+
+.alert-error {
+  background-color: #f8d7da;
+  color: #721c24;
+}

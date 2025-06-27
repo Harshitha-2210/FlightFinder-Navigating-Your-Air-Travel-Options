@@ -1,0 +1,40 @@
+.page-container {
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.section-heading {
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.card {
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+.card p {
+  margin: 6px 0;
+}
+
+h2, h3 {
+  color: #2c3e50;
+}
+
+button {
+  padding: 8px 14px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
