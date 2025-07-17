@@ -17,3 +17,7 @@ This successful flight booking app combines a user-friendly interface, efficient
    MONGO_URI=your_mongodb_atlas_connection_string
    JWT_SECRET=your_jwt_secret_key
 4. Running the project locally.
+
+🎥 DEMO VIDEO link
+  https://drive.google.com/file/d/1dZrSI2UkzNTE1j9HP9KjnNUYodqOOLKf/view?usp=sharing
+
