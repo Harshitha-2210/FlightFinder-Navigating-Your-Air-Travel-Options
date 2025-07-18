@@ -34,7 +34,7 @@ This successful flight booking app combines a user-friendly interface, efficient
 
 ⚙️ Setup Instructions:
 1. Clone the repository.
-   git clone 
+   git clone https://github.com/Harshitha-2210/FlightFinder-Navigating-Your-Air-Travel-Options.git
    cd flightfinder
 
 2. Install dependencies.
