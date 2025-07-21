@@ -49,7 +49,7 @@ This successful flight booking app combines a user-friendly interface, efficient
    JWT_SECRET=your_jwt_secret_key
 5. Running the project locally.
    cd server
-   npm start
+   node index.js
    cd ../client
    npm start
 
